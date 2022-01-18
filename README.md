@@ -21,3 +21,17 @@ With the spreadsheet in hand, I used the pandas library to process the collected
 Neste programa utilizei a biblioteca beautiful soup para realizar o web scraping do site worldometers.info, com o intuito de obter dados atualizados sobre a covid. Após o web scraping recebi todo o html do site, e com o auxilio da ferramenta de inspecionar do navegador, procurei em que parte do código estava os dados com os quais queria trabalhar, e os converti para uma planilha Excel.
 
 Com a planilha em mãos, utilizei a biblioteca pandas para realizar o tratamento dos dados coletados, modificando dados nulos e excluindo as colunas que não seriam necessárias. Após com o auxilio da biblioteca numpy e matplotlib, dei um visual para meus dados, deixando assim mas simples para a compreensão.
+
+### How to run the code? 🏃‍♀️
+
+After clone the repository, you can use these commands in the terminal to run the code (Portuguese translation - após clonar o repositório, você pode usar estes comandos no terminal para executar o código):
+
+On Windows:
+```sh
+py -3 main.py
+```
+
+On other systems:
+```sh
+python3 main.py
+```
