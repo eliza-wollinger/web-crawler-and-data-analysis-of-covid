@@ -1,4 +1,4 @@
-![Covid Banner](https://user-images.githubusercontent.com/57842220/149684780-6eb66463-6149-49f6-a841-b992bf336ab6.png)
+![Covid Banner](https://user-images.githubusercontent.com/57842220/149853924-1f839493-7871-4da9-a273-b59d18fac8bb.png)
 
 ![Python Version](https://img.shields.io/badge/Python-v3.9.0-lightgrey) 
 ![Beautiful Soup Version](https://img.shields.io/badge/Beautiful%20Soup-v4.9.0-lightgrey)
